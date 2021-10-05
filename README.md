@@ -9,6 +9,7 @@ Dada la ecuacion gcd(a;b) = ax + by
 El gcd(29;352)=1
 Valor de x es 85
 Valor de y es -7
+
 Por lo tanto:
 1=a*85+b*-7
 
